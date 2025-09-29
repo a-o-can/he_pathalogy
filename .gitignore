@@ -1,1 +1,4 @@
-*.dcm
+*.dcm*.dcm
+*.tif
+*.tiff
+*.svs
