@@ -1,0 +1,16 @@
+name: he_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pydicom
+  - numpy
+  - matplotlib
+  - simpleitk
+  - gdcm
+  - pylibjpeg
+  - pylibjpeg-libjpeg
+  - pylibjpeg-openjpeg
+  - tifffile
+  - pillow
+  - jupyter
